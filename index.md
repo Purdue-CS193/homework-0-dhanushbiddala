@@ -35,3 +35,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+# Dhanush's First CS193 Homework
+
+- Icebreakers keep the class fun
+- There aren't any tests
+- The quizzes aren't very hard
+- It's taught by students
